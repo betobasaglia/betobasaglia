@@ -1,8 +1,8 @@
 ### Olá, pessoal. Aqui é o Beto!!! 👋
 
 - 🔭 Trabalho na setor público
-- 🌱 Atualmente estou estudando linguagem de programação
-- 👯 Estou procurando informações sobre desenvolvimento de sistemas
+- 🌱 Atualmente estudando linguagem de programação
+- 👯 Procurando informações sobre desenvolvimento de sistemas
 - 💬 Fico a disposição para ajudar quem precisar
 - 📫 Contacte-me no email betobasaglia@hotmail.com
 
