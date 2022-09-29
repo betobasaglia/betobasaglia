@@ -2,8 +2,8 @@
 ### Olá! Eu sou o Beto Basaglia 👋 
 
 
-- 🔭 Trabalho na setor público
-- 🌱 Atualmente estudando linguagem de programação
+- 🔭 Trabalho no setor público
+- 👨‍💻 Atualmente estudando linguagem de programação
 - 👯 Procurando informações sobre desenvolvimento de sistemas
 - 💬 Fico a disposição para ajudar quem precisar
 - 📫 Contacte-me no email betobasaglia@hotmail.com
